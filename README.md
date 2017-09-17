@@ -21,7 +21,7 @@
 
 ## Usage
 ```javascript
-import RNAppInfoIos from 'react-native-app-info-ios';
+import RNAppInfoIos from '@zp/react-native-app-info-ios';
 
 RNAppInfoIos.getData((info) => {
           console.log('App Info Plist Object: ', info);
