@@ -3,7 +3,7 @@
 //  RNAppInfo
 //
 //  Created by Dmitriy Arkhipov on 17.09.17.
-//  Copyright © 2017 Facebook. All rights reserved.
+//  Copyright © 2017 Зарплата.ру. All rights reserved.
 //
 
 #import "RNAppInfoIos.h"
