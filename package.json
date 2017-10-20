@@ -1,6 +1,6 @@
 {
   "name": "@zp/react-native-app-info-ios",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Мост для получения данных из Info.plist",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "Dmitriy Arkhipov",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.47.0"
+    "react-native": "0.x"
   }
 }
