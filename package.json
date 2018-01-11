@@ -1,6 +1,6 @@
 {
   "name": "react-native-app-info-ios",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Мост для получения данных из Info.plist",
   "main": "index.js",
   "scripts": {
