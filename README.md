@@ -3,11 +3,11 @@
 
 ## Getting started
 
-`$ npm install @zp/react-native-app-info-ios --save`
+`$ npm install react-native-app-info-ios --save`
 
 ### Mostly automatic installation
 
-`$ react-native link @zp/react-native-app-info-ios`
+`$ react-native link react-native-app-info-ios`
 
 ### Manual installation
 
@@ -21,7 +21,7 @@
 
 ## Usage
 ```javascript
-import RNAppInfoIos from '@zp/react-native-app-info-ios';
+import RNAppInfoIos from 'react-native-app-info-ios';
 
 RNAppInfoIos.getData((info) => {
           console.log('App Info Plist Object: ', info);
